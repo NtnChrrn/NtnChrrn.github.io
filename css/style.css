@@ -416,9 +416,10 @@ p {
     height:60px;
 }
 .service img {
-    width:150px;
-    height:150px;
+    width:75px;
+    height:75px;
 }
+
 /*
 3.2 Portfolio
 ***************************************/
@@ -901,4 +902,14 @@ p {
     .price-column, .testimonial {
         margin-top:30px;
     }
+}
+
+
+.row-sponsor{
+    display: inline-block;
+    position: absolute;
+}
+
+.liste{
+    list-style-type: none; 
 }
